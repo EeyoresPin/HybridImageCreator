@@ -21,4 +21,6 @@ frequency_hybrid.jpg shows the hybrid image created, and edited in the frequency
 
 spatial_hybrid.jpg shows the hybrid image created, and edited in the spatial domain using LaPlacian and Gaussian Pyramids.
 
+When Looking at the hybrid images, try looking at them at different distances to see how they appear differnetly close and a far. 
+
 
